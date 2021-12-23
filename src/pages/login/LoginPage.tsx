@@ -48,6 +48,8 @@ const LoginPage = observer(() => {
             </Button>
             </div>
 
+            <a href='/registration'><p className='mt-5 text-center'>{t('register')}</p></a>
+
             {!!store.error && (
               <Alert variant="danger" transition={Fade} className="mt-5">
               <Alert.Heading>{t('error')}</Alert.Heading>

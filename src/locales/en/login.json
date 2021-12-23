@@ -6,5 +6,6 @@
     "submit": "SUBMIT",
     "login": "LOGIN",
     "error": "Error!",
-    "success": "Success!"
+    "success": "Success!",
+    "register": "Don't have account?"
 }

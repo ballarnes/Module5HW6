@@ -7,10 +7,12 @@ import { useInjection } from '../../ioc/ioc.react'
 import ownTypes from '../../ioc/ownTypes'
 import BasketPageStore  from '../../stores/pages/BasketPageStore'
 import { useNavigate } from "react-router-dom";
+import AuthStore from '../../stores/AuthStore'
 
 
 const BasketPage = observer(() => {
   const store = useInjection<BasketPageStore>(ownTypes.basketPageStore);
+  const auth = useInjection<AuthStore>(ownTypes.authStore);
   const { t } = useTranslation(['basketPage']);
   const navigate = useNavigate();
   
@@ -61,7 +63,7 @@ const BasketPage = observer(() => {
               </Row>
               }</h5></Badge>
               <div className="d-grid gap-2 mt-5">
-              <Button variant="outline-success" type="submit" size='lg' onClick={()=> { store.clearBasket(); }}>
+              <Button variant="outline-success" type="submit" size='lg' onClick={()=> { auth.isAuthorized ? store.clearBasket() : navigate('/login') }}>
                 {store.isLoading ? (
                   <Spinner animation="grow" size="sm" />
                 ) : (
