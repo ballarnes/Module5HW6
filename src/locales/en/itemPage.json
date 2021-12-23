@@ -1,0 +1,12 @@
+{
+    "allAboutProduct": "All about product",
+    "video": "Video",
+    "socket": "Socket",
+    "cores": "Cores",
+    "threads": "Threads",
+    "basket": "Add to basket",
+    "clockFrequency": "Clock Frequency",
+    "maximumClockFrequency": "Maximum Clock Frequency",
+    "memoryType": "Memory Type",
+    "price": "Price"
+}

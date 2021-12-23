@@ -1,0 +1,11 @@
+{
+    "socket": "Socket",
+    "cores": "Cores",
+    "threads": "Threads",
+    "basket": "ADD TO BASKET",
+    "clockFrequency": "Clock Frequency",
+    "maximumClockFrequency": "Maximum Clock Frequency",
+    "memoryType": "Memory Type",
+    "price": "Price",
+    "remove": "REMOVE FROM BASKET"
+}

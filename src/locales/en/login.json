@@ -1,0 +1,10 @@
+{
+    "placeholder": {
+      "email": "Enter email",
+      "password": "Password"
+    },
+    "submit": "SUBMIT",
+    "login": "LOGIN",
+    "error": "Error!",
+    "success": "Success!"
+}

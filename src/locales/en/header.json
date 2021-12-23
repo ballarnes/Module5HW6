@@ -1,0 +1,10 @@
+{
+    "home": "HOME",
+    "profile": "Profile",
+    "catalog": "CATALOG",
+    "personalArea": "PERSONAL AREA",
+    "login": "Login",
+    "registration": "Registration",
+    "logout": "Logout",
+    "basket": "BASKET"
+}

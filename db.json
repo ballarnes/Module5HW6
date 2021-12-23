@@ -1,0 +1,221 @@
+{
+  "accounts": [
+    {
+      "name": "Eve",
+      "lastname": "Holt",
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka",
+      "avatar": "https://cdn.picpng.com/person/user-person-people-profile-53120.png",
+      "date": "21.12.2021",
+      "token": "62791451158028907",
+      "basket": [],
+      "id": 1
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "brand": "AMD",
+      "name": "Ryzen 5 5600X",
+      "price": 9399,
+      "currency": "UAH",
+      "image": "https://content1.rozetka.com.ua/goods/images/big/35698522.jpg",
+      "details": {
+        "socket": "AM4",
+        "numberOfCores": 6,
+        "numberOfThreads": 12,
+        "clockFrequency": "3.7 GHz",
+        "maximumClockFrequency": "4.7 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/zN0B-awvA-Y"
+      }
+    },
+    {
+      "id": 2,
+      "brand": "Intel",
+      "name": "Core i5-11400F",
+      "price": 5299,
+      "currency": "UAH",
+      "image": "https://content.rozetka.com.ua/goods/images/big/164390440.jpg",
+      "details": {
+        "socket": "1200",
+        "numberOfCores": 6,
+        "numberOfThreads": 12,
+        "clockFrequency": "2.6 GHz",
+        "maximumClockFrequency": "4.4 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/TxXrBTEDLmg"
+      }
+    },
+    {
+      "id": 3,
+      "brand": "AMD",
+      "name": "Ryzen 7 5800X",
+      "price": 12626,
+      "currency": "UAH",
+      "image": "https://content1.rozetka.com.ua/goods/images/big/35685183.jpg",
+      "details": {
+        "socket": "AM4",
+        "numberOfCores": 8,
+        "numberOfThreads": 16,
+        "clockFrequency": "3.8 GHz",
+        "maximumClockFrequency": "4.7 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/tUe5B2zjEPU"
+      }
+    },
+    {
+      "id": 4,
+      "brand": "Intel",
+      "name": "Core i5-10400",
+      "price": 4999,
+      "currency": "UAH",
+      "image": "https://content1.rozetka.com.ua/goods/images/big/24188618.jpg",
+      "details": {
+        "socket": "1200",
+        "numberOfCores": 6,
+        "numberOfThreads": 12,
+        "clockFrequency": "2.9 GHz",
+        "maximumClockFrequency": "4.3 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/goC43msTkbY"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "AMD",
+      "name": "Ryzen 3 1200",
+      "price": 3099,
+      "currency": "UAH",
+      "image": "https://content2.rozetka.com.ua/goods/images/big/216855092.jpg",
+      "details": {
+        "socket": "AM4",
+        "numberOfCores": 4,
+        "numberOfThreads": 4,
+        "clockFrequency": "3.1 GHz",
+        "maximumClockFrequency": "3.4 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/bO2hXLaVC-0"
+      }
+    },
+    {
+      "id": 6,
+      "brand": "Intel",
+      "name": "Core i3-10300",
+      "price": 5100,
+      "currency": "UAH",
+      "image": "https://content.rozetka.com.ua/goods/images/big/24188769.jpg",
+      "details": {
+        "socket": "1200",
+        "numberOfCores": 4,
+        "numberOfThreads": 8,
+        "clockFrequency": "3.7 GHz",
+        "maximumClockFrequency": "4.4 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/Bd352lZmHRQ"
+      }
+    },
+    {
+      "id": 7,
+      "brand": "AMD",
+      "name": "Ryzen 5 1600",
+      "price": 5059,
+      "currency": "UAH",
+      "image": "https://content1.rozetka.com.ua/goods/images/big/216855086.jpg",
+      "details": {
+        "socket": "AM4",
+        "numberOfCores": 6,
+        "numberOfThreads": 12,
+        "clockFrequency": "3.2 GHz",
+        "maximumClockFrequency": "3.6 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/69X5fWL1JRY"
+      }
+    },
+    {
+      "id": 8,
+      "brand": "Intel",
+      "name": "Pentium G6400",
+      "price": 3626,
+      "currency": "UAH",
+      "image": "https://content1.rozetka.com.ua/goods/images/big/31456008.jpg",
+      "details": {
+        "socket": "1200",
+        "numberOfCores": 2,
+        "numberOfThreads": 4,
+        "clockFrequency": "4.0 GHz",
+        "maximumClockFrequency": "4.0 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/S5FvQpaZFGE"
+      }
+    },
+    {
+      "id": 9,
+      "brand": "AMD",
+      "name": "Ryzen Threadripper 1900X",
+      "price": 2967,
+      "currency": "UAH",
+      "image": "https://hotline.ua/img/tx/307/3076195665.jpg",
+      "details": {
+        "socket": "sTR4",
+        "numberOfCores": 8,
+        "numberOfThreads": 16,
+        "clockFrequency": "3.8 GHz",
+        "maximumClockFrequency": "4.0 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/StPk_3a99hA"
+      }
+    },
+    {
+      "id": 10,
+      "brand": "Intel",
+      "name": "Core i7-12700K",
+      "price": 14330,
+      "currency": "UAH",
+      "image": "https://content1.rozetka.com.ua/goods/images/big/231753765.jpg",
+      "details": {
+        "socket": "1200",
+        "numberOfCores": 12,
+        "numberOfThreads": 20,
+        "clockFrequency": "3.6 GHz",
+        "maximumClockFrequency": "5.0 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/2sNCml1HCxU"
+      }
+    },
+    {
+      "id": 11,
+      "brand": "AMD",
+      "name": "Ryzen 7 3800X",
+      "price": 9529,
+      "currency": "UAH",
+      "image": "https://content1.rozetka.com.ua/goods/images/big/83818327.jpg",
+      "details": {
+        "socket": "sTR4",
+        "numberOfCores": 8,
+        "numberOfThreads": 16,
+        "clockFrequency": "3.9 GHz",
+        "maximumClockFrequency": "4.5 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/FXIu-LxPuuQ"
+      }
+    },
+    {
+      "id": 12,
+      "brand": "Intel",
+      "name": "Xeon E5-2620 v4",
+      "price": 14995,
+      "currency": "UAH",
+      "image": "https://content2.rozetka.com.ua/goods/images/big/50737008.jpg",
+      "details": {
+        "socket": "2011-3",
+        "numberOfCores": 8,
+        "numberOfThreads": 16,
+        "clockFrequency": "2.1 GHz",
+        "maximumClockFrequency": "3.0 Ghz",
+        "memoryType": "DDR4",
+        "videoLink": "https://www.youtube.com/embed/NNbh7uBCOWU"
+      }
+    }
+  ]
+}

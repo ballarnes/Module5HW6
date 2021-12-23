@@ -1,0 +1,17 @@
+{
+    "placeholder": {
+      "email": "Email",
+      "password": "Password",
+      "firstName": "First Name",
+      "lastName": "Last Name"
+    },
+    "registration": "REGISTRATION",
+    "submit": "SUBMIT",
+    "passwordConfirm": "Password Confirmation",
+    "success": "Success! Your id: {{id}}\nToken: {{token}}",
+    "error": {
+        "passwordMismatch": "Password mismatch!",
+        "nameError": "Name or last name entered incorrectly",
+        "emailError": "Email entered incorrectly"
+    }
+}

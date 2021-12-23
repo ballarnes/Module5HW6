@@ -1,0 +1,16 @@
+{
+    "slides": {
+      "firstSlide": {
+        "label": "Happy New Year!",
+        "description": "Don't forget to buy a gift :)"
+      },
+      "secondSlide": {
+        "label": "Only 3 days!",
+        "description": "Discount applies to all AMD and Intel products."
+      },
+      "thirdSlide": {
+        "label": "Happy New Years with AMD Ryzen!",
+        "description": "All december buy AMD processors with the best discounts of the year!"
+      }
+    }
+}
